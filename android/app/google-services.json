@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "28332822958",
+    "firebase_url": "https://yoke-16b1c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yoke-16b1c",
+    "storage_bucket": "yoke-16b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28332822958:android:0fb352485483def26f383f",
+        "android_client_info": {
+          "package_name": "com.example.yoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28332822958-tgs4vsdoiitm1v1jm4h3rrtopv3f2t7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqOWUEn-z3lY5xIAo4W1eAr4tuy2REFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28332822958-tgs4vsdoiitm1v1jm4h3rrtopv3f2t7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28332822958:android:511a7949ae64376a6f383f",
+        "android_client_info": {
+          "package_name": "com.haythem.yoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28332822958-tgs4vsdoiitm1v1jm4h3rrtopv3f2t7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqOWUEn-z3lY5xIAo4W1eAr4tuy2REFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28332822958-tgs4vsdoiitm1v1jm4h3rrtopv3f2t7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
